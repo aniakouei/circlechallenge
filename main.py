@@ -1,12 +1,19 @@
 #import math
 #create class for circle
-# create function to initialize and set radius property
-# create function to calculate diameter
-#create function to calculate circumference
-#create a function to calculate are
-#create a function that doubles the radius
-#create a function that returns the radius value
-#
+    # create function to initialize and set radius property
+    # create function to calculate diameter
+    #create function to calculate circumference
+    #create a function to calculate are
+    #create a function that doubles the radius
+    #create a function that returns the radius value
+#create a function to print the valid radius
+    # create a loop with an if statement to make sure the user input is a positive radius
+#create a function for the main
+    #create a while loop that prints the circle information
+    # ask user input if they would like the circle to grow
+    #create if statement if yes to call grow function and loop again and if no it breaks
+#call main function to run through program
+    
 
 
 import math
